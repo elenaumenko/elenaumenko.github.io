@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
-	<meta http-equiv="Refresh" content="4; url=">
+	
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -49,12 +49,11 @@ if(@mail($sendto, $subject, $msg, $headers)) {
 	</div>
 	<div class="row reb">
 		<div class="col-sm-12 text-center"><h1 class="dha"><br><br>Спасибо. Ваша заявка отправлена. Мы обязательно ответим Вам в ближайшее время. <br><br></div>
-	</div>";
-} else {
+	</div>"} else {
     echo "	</div>
 	<div class="row reb">
 		<div class="col-sm-12 text-center"><h1 class="dha"><br><br>Произошел сбой отправки. Извините. Мы уже рабоатаем над этим. Попробуйте оставить заявку позднее или обратитесь к нам по телефону: <strong>8 (915) 101 50 25</strong> <br><br></div>
-	</div>";
+	</div>"
 }
  
 ?>
