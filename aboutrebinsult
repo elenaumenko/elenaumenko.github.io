@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Реабилитация на дому после инсульта</title>
+ <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+<link href="https://fonts.googleapis.com/css?family=Noto+Serif|Roboto" rel="stylesheet">
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+	<div class="row">
+		<div class="col-sm-8"></div>
+		<div class="col-sm-4">&nbsp&nbsp&nbsp <a>Главная</a> &nbsp&nbsp&nbsp <a>О нас</a> &nbsp&nbsp&nbsp<a>Цены</a> &nbsp&nbsp&nbsp <a>Контакты</a> </div>
+
+	</div>
+	<div class="row reb">
+		<div class="col-sm-12 text-center"><h1 class="dha"><br><br><br><br><br>Реабилитация на дому после инсульта <br><br></h1> </div>
+	</div>
+	<div class="row text-center">
+		<div class="col-sm-2"></div>
+		<div class="col-sm-8"><p><br>Восстановление после инсульта – продолжительный и сложный процесс, и не всегда у человека есть возможность находиться в это время в реабилитационном центре. К тому же в некоторых случаях реабилитация на дому бывает более эффективной и целесообразной, поскольку позволяет пациенту находиться в привычных условиях среди близких людей.<br><br></p></div>
+		<div class="col-sm-2"></div>
+	</div>
+	<div class="row text-center green">
+		<div class="col-sm-2"></div>
+		<div class="col-sm-4"></div>
+		<div class="col-sm-4"><p class="zha"><br>У нас есть целый ряд эффективных методик, направленных на реабилитацию и адаптацию больного после инсульта. Несомненный плюс этих программ заключается в том, что они созданы специально для восстановления в домашних условиях.
+		<br>Реабилитация на дому должна обязательно проходить под наблюдением специалиста.
+		<br>При первоначальном осмотре пациента нашим врачом, будет составлен индивидуальный алгоритм дальнейшего режима работы. Мы поможем восстановить здоровье после инсульта или операции.<br><br></p></div>
+		<div class="col-sm-2"></div>
+	</div>
+	<div class="row ">
+		<div class="col-sm-2"></div>
+		<div class="col-sm-8"><p><br>Своевременно оказать помощь после инсульта необходимо по ряду причин:<br><br>
+			<ul>
+			<li>в течение месяца после инсульта сохраняются высокие риски угрозы для жизни пациента;</li>
+			<li>реабилитация – сложный процесс, который будет затрагивать самые разные сферы жизни больного, в том числе физическую, социальную и психо-эмоциональную адаптацию;</li>
+			<li>только грамотно разработанная программа восстановления способна дать положительные результаты и хотя бы частично вернуть пациента после инсульта к прежней жизни.</li></ul><br>
+			</p></div>
+		<div class="col-sm-2"></div>
+	</div>
+	<div class="row text-center p3">
+		<div class="col-sm-2"></div>
+		<div class="col-sm-8"><p class="zha"><br><br>Реабилитация на дому — наиболее доступный, доказано эффективный метод восстановления после инсульта. При применении этого способа реабилитации пациент адаптируется к условиям проживания, обучается способности самообслуживания в условиях жительства.<br><br></p></div>
+		<div class="col-sm-2"></div>
+	</div>
+	<div class="hFooter"></div>
+    </div>
+	<div class="footer"></div>
+</body>

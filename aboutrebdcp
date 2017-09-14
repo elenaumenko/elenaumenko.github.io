@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Реабилитация ДЦП на дому</title>
+ <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+<link href="https://fonts.googleapis.com/css?family=Noto+Serif|Roboto" rel="stylesheet">
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+	<div class="row">
+		<div class="col-sm-8"></div>
+		<div class="col-sm-4">&nbsp&nbsp&nbsp <a>Главная</a> &nbsp&nbsp&nbsp <a>О нас</a> &nbsp&nbsp&nbsp<a>Цены</a> &nbsp&nbsp&nbsp <a>Контакты</a> </div>
+
+	</div>
+	<div class="row reb">
+		<div class="col-sm-12 text-center"><h1 class="dha"><br><br><br><br><br>Реабилитация ДЦП на дому<br><br></h1> </div>
+	</div>
+	<div class="row text-center">
+		<div class="col-sm-2"></div>
+		<div class="col-sm-4"></div>
+		<div class="col-sm-4"><p><br>Детский церебральный паралич (ДЦП) – это заболевание центральной нервной системы, вызывающее нарушения двигательной и мышечной активности, зрения, слуха, речи и психики. При легкой степени ДЦП человек способен обслуживать себя самостоятельно. Средняя степень требует помощи со стороны взрослых. Люди с тяжелым течением ДЦП в очень большой степени зависят от окружающих.<br><br></p></div>
+		<div class="col-sm-2"></div>
+	</div>
+	<div class="row text-center green">
+		<div class="col-sm-2"></div>
+		<div class="col-sm-8"><p class="zha"><br>Услышав диагноз ДЦП, родители не знают, что делать, потому что, в основном, они слышат: этот диагноз неизлечим, начинают опускаться руки от отчаяния. Нужно сразу применять радикальные меры. Если приступить к лечению с первых дней жизни ребенка, то возможно добиться даже полного выздоровления
+		<br><br></p></div>
+		<div class="col-sm-2"></div>
+	</div>
+	<div class="row text-center">
+		<div class="col-sm-2"></div>
+		<div class="col-sm-4"><br><h1>Реабилитация детей с ДЦП</h1>
+<p>Программу реабилитации разрабатывают индивидуально под каждого ребенка. Реабилитологи различными путями помогают больным восстановить слаженную работу мышц (сгибатели и разгибатели должны сокращаться согласованно) и научиться всему тому, чему они не смогли научиться из-за заболевания: держать голову, садиться, вставать на ноги, ходить, говорить и т.д.<br> ДЦП очень хорошо поддается коррекции. Даже при тяжелой степени заболевания качество жизни человека можно существенно улучшить. «Лежачего» можно научить сидеть, «сидячего» – стоять и даже передвигаться.
+		<br><br>
+			</p></div>
+		<div class="col-sm-4"></div>
+		<div class="col-sm-2"></div>
+	</div>
+	<div class="row text-center p3">
+		<div class="col-sm-2"></div>
+		<div class="col-sm-8"><p class="zha"><br><br>Известно, что при сохранном интеллекте дети с ДЦП способны проходить обучение в обычных школах, закончить высшее учебное заведение и, в дальнейшем, работать и жить в обычном социуме. Важно понимать, что работа с пациентами, имеющими диагноз ДЦП должна быть начата как можно раньше. Возможно достичь наибольших результатов в формировании пропорционального роста ребенка, уменьшения спастичности его конечностей, минимизации деформаций скелета и восстановления двигательных функций.
+		<br><br></p></div>
+		<div class="col-sm-2"></div>
+	</div>
+		<div class="row ">
+		<div class="col-sm-2"></div>
+		<div class="col-sm-8"><br>
+		<br><p>
+			<ul>Реабилитация  обеспечивает:<br><br>
+			<li>увеличение мышечной силы</li>
+			<li>устранение дисбаланса спастических явлений</li>
+			<li>улучшение координации и симметрии тела</li>
+			<li>увеличение полезного объёма легких</li>
+			<li>улучшение микроциркуляции в тканях и органах</li>
+			<li>улучшение психоэмоционального состояния</li>
+			<li>повышение самостоятельности и адаптация к социально-бытовым условиям</li>
+			<li>развитие речи и памяти, повышение внимания, возможность обучения</li><ul>
+		<br>
+		</p></div>
+		<div class="col-sm-2"></div>
+	</div>
+	
+	<div class="row text-center green">
+		<div class="col-sm-2"></div>
+		<div class="col-sm-8"><p class="zha"><br>Позонив нам, Вы можете рассчитывать на индивидуальный подход к Вашему ребенку и на эффективные результаты реабилитации ДЦП на дому.<br><br></p></div>
+		<div class="col-sm-2"></div>
+
+	<div class="hFooter"></div>
+    </div>
+
+	<div class="footer"></div>
+</body>

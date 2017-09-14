@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Реабилитация на дому. Наши цены</title>
+ <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+<link href="https://fonts.googleapis.com/css?family=Noto+Serif|Roboto" rel="stylesheet">
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+	<div class="row">
+		<div class="col-sm-8"></div>
+		<div class="col-sm-4">&nbsp&nbsp&nbsp <a>Главная</a> &nbsp&nbsp&nbsp <a>О нас</a> &nbsp&nbsp&nbsp<a>Цены</a> &nbsp&nbsp&nbsp <a>Контакты</a> </div>
+
+	</div>
+	<div class="row reb">
+		<div class="col-sm-12 text-center"><h1 class="dha"><br><br><br><br><br>Реабилитация на дому. Наши цены<br><br></h1> </div>
+	</div>
+	<br>
+	<br>
+	<div class="row">
+		<div class="col-sm-3"></div>
+		<div class="col-sm-6"><table align=center border=1 bgcolor=#bbc2b9>
+		<tr><td><br><p>Первичный вызов врача реабилитолога для осмотра и составления плана реабилитации</p><br></td><td><br><p>&nbsp3000р&nbsp</p><br></td></tr>
+		<tr><td><br><p>Вторичный вызов</p><br></td><td><br><p>&nbsp2000р&nbsp</p><br></td></tr>
+		<tr><td><br><p>Занятие со специалистом по ЛФК (Москва)</p><br></td><td><br><p>&nbsp2000р</p><br></td></tr>
+		<tr><td><br><p>Занятие со специалистом по ЛФК (МО)</p><br></td><td><br><p>&nbsp2500р&nbsp</p><br></td></tr></table></div>
+		<div class="col-sm-3"></div>
+	</div>
+	<br>
+	<br>
+	<div class="hFooter"></div>
+    </div>
+	<div class="footer"></div>
+</body>
